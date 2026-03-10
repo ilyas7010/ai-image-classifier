@@ -82,4 +82,5 @@ ai-image-classifier
 ---
 
 ## 🙌 Author
-Built by **Ilyas** as part of learning **AI Engineering and Machine Learning applications**.
+Built by **Ilyas** as part of my learning **AI Engineering and Machine Learning applications**.
+
